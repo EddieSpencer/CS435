@@ -1,0 +1,241 @@
+Script started on Sun Jan 26 18:02:08 2014
+[?1034h[0;32mEddie@Eddies-MacBook-Pro[m:[0;34m~/Code/CS435/Assignment1[m$ scraper.r b
+bash: scraper.rb: command not found
+[0;32mEddie@Eddies-MacBook-Pro[m:[0;34m~/Code/CS435/Assignment1[m$ ruby scra per.rb
+Enter the country whose top artists you wish to view: (US or GB) US
+A Great Big World
+    Name: Say Something
+    Rank: 2
+    Stats: 1694205
+    
+AWOLNATION
+    Name: Sail
+    Rank: 35
+    Stats: 571043
+    
+Aloe Blacc
+    Name: The Man
+    Rank: 23
+    Stats: 665256
+    
+Arctic Monkeys
+    Name: Do I Wanna Know?
+    Rank: 42
+    Stats: 515896
+    
+Avicii
+    Name: Wake Me Up
+    Rank: 11
+    Stats: 1106629
+    
+    Name: Hey Brother
+    Rank: 24
+    Stats: 656960
+    
+Bastille
+    Name: Pompeii
+    Rank: 6
+    Stats: 1357190
+    
+Beyoncé
+    Name: Drunk in Love
+    Rank: 10
+    Stats: 1150140
+    
+    Name: XO
+    Rank: 32
+    Stats: 587305
+    
+Capital Cities
+    Name: Safe and Sound
+    Rank: 33
+    Stats: 585128
+    
+Drake
+    Name: Hold On, We're Going Home
+    Rank: 15
+    Stats: 1030226
+    
+    Name: All Me
+    Rank: 28
+    Stats: 629707
+    
+Ellie Goulding
+    Name: Burn
+    Rank: 12
+    Stats: 1073645
+    
+Eminem
+    Name: The Monster
+    Rank: 8
+    Stats: 1352264
+    
+    Name: Rap God
+    Rank: 22
+    Stats: 702532
+    
+Imagine Dragons
+    Name: Demons
+    Rank: 16
+    Stats: 958527
+    
+    Name: Radioactive
+    Rank: 20
+    Stats: 856072
+    
+JAY Z
+    Name: Holy Grail
+    Rank: 38
+    Stats: 538573
+    
+Jason Derulo
+    Name: Talk Dirty - feat. 2 Chainz
+    Rank: 18
+    Stats: 891567
+    
+John Legend
+    Name: All of Me
+    Rank: 49
+    Stats: 432960
+    
+John Newman
+    Name: Love Me Again
+    Rank: 34
+    Stats: 579398
+    
+Katy Perry
+    Name: Dark Horse
+    Rank: 1
+    Stats: 1907947
+    
+    Name: Roar
+    Rank: 19
+    Stats: 872403
+    
+    Name: Unconditionally
+    Rank: 45
+    Stats: 489083
+    
+Kid Ink
+    Name: Show Me
+    Rank: 29
+    Stats: 626741
+    
+Lady Gaga
+    Name: Do What U Want
+    Rank: 30
+    Stats: 623929
+    
+    Name: Applause
+    Rank: 46
+    Stats: 449515
+    
+Lana Del Rey
+    Name: Summertime Sadness [Lana De...
+    Rank: 50
+    Stats: 415750
+    
+Lorde
+    Name: Royals
+    Rank: 5
+    Stats: 1432306
+    
+    Name: Team
+    Rank: 7
+    Stats: 1355187
+    
+    Name: Tennis Court
+    Rank: 27
+    Stats: 629746
+    
+Macklemore & Ryan...
+    Name: White Walls - feat. ScHoolb...
+    Rank: 25
+    Stats: 652435
+    
+    Name: Can't Hold Us - feat. Ray D...
+    Rank: 31
+    Stats: 608517
+    
+Martin Garrix
+    Name: Animals
+    Rank: 44
+    Stats: 499884
+    
+Mike Will Made-It
+    Name: 23
+    Rank: 26
+    Stats: 645367
+    
+Miley Cyrus
+    Name: Wrecking Ball
+    Rank: 21
+    Stats: 828526
+    
+    Name: Adore You
+    Rank: 40
+    Stats: 523496
+    
+    Name: We Can't Stop
+    Rank: 41
+    Stats: 519928
+    
+One Direction
+    Name: Story of My Life
+    Rank: 17
+    Stats: 946834
+    
+OneRepublic
+    Name: Counting Stars
+    Rank: 4
+    Stats: 1486519
+    
+Passenger
+    Name: Let Her Go
+    Rank: 9
+    Stats: 1243387
+    
+Pitbull
+    Name: Timber
+    Rank: 3
+    Stats: 1599953
+    
+Robin Thicke
+    Name: Blurred Lines
+    Rank: 36
+    Stats: 568050
+    
+Shakira
+    Name: Can't Remember to Forget Yo...
+    Rank: 43
+    Stats: 502964
+    
+The Neighbourhood
+    Name: Sweater Weather
+    Rank: 13
+    Stats: 1060641
+    
+Various Artists
+    Name: Let It Go
+    Rank: 14
+    Stats: 1033167
+    
+    Name: Do You Want to Build a Snow...
+    Rank: 37
+    Stats: 553269
+    
+    Name: Let It Go - Single Version
+    Rank: 47
+    Stats: 443414
+    
+    Name: For the First Time in Forev...
+    Rank: 48
+    Stats: 436657
+    
+YG
+    Name: My Nigga
+    Rank: 39
+    Stats: 526692
+    
+[0;32mEddie@Eddies-MacBook-Pro[m:[0;34m~/Code/CS435/Assignment1[m$ ruby scar per.rb[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K
